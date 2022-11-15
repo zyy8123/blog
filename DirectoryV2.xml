@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <trees>
+     <tree path="/src/components/model/EmailModel.vue" title="电子邮箱模态框" extension="vue"/>
+     <tree path="/src/components/model/ForgetModel.vue" title="忘记密码模态框" extension="vue"/>
+     <tree path="/src/components/model/LoginModel.vue" title="登录模态框" extension="vue"/>
+     <tree path="/src/components/model/RegisterModel.vue" title="注册模态框" extension="vue"/>
+     <tree path="/src/components/model/SearchModel.vue" title="搜索模态框" extension="vue"/>
+     <tree path="/src/components/ChatRoom.vue" title="聊天框" extension="vue"/>
+     <tree path="/src/components/Comment.vue" title="评论框" extension="vue"/>
+     <tree path="/src/components/BackTop.vue" title="返回顶部" extension="vue"/>
+     <tree path="/src/components/Emoji.vue" title="表情包" extension="vue"/>
+     <tree path="/src/components/OauthLogin.vue" title="第三方登录" extension="vue"/>
+     <tree path="/src/components/Paging.vue" title="分页" extension="vue"/>
+    <tree path="/src/components/Reply.vue" title="回复" extension="vue"/>
+    <tree path="/src/components/TalkComment.vue" title="说说回复" extension="vue"/>
+    <tree path="/src/views/about" title="关于我"/>
+    <tree path="/src/views/album/Album.vue" title="相册" extension="vue"/>
+    <tree path="/src/views/album" title="相册"/>
+    <tree path="/src/views/album/Photo.vue" title="照片列表" extension="vue"/>
+    <tree path="/src/views/archive/Archive.vue" title="归档" extension="vue"/>
+    <tree path="/src/views/article" title="文章"/>
+    <tree path="/src/views/article/Article.vue" title="文章详细信息" extension="vue"/>
+    <tree path="/src/views/article/ArticleList.vue" title="分类/标签 文章列表" extension="vue"/>
+    <tree path="/src/views/category" title="分类"/>
+    <tree path="/src/views/category/Category.vue" title="分类页面" extension="vue"/>
+    <tree path="/src/views/home" title="首页"/>
+    <tree path="/src/views/home/Home.vue" title="首页面" extension="vue"/>
+    <tree path="/src/views/link" title="友链"/>
+    <tree path="/src/views/link/Link.vue" title="友链页面" extension="vue"/>
+    <tree path="/src/views/message" title="留言"/>
+    <tree path="/src/views/message/Message.vue" title="留言页面" extension="vue"/>
+    <tree path="/src/views/tag" title="标签"/>
+    <tree path="/src/views/talk" title="说说"/>
+    <tree path="/src/views/talk/Talk.vue" title="说说页面" extension="vue"/>
+    <tree path="/src/views/talk/TalkInfo.vue" title="说说详细页面" extension="vue"/>
+    <tree path="/src/views/user/User.vue" title="个人详细信息" extension="vue"/>
+    <tree path="/src/views/user" title="个人"/>
+    <tree path="/src/App.vue" title="页面整合(访客量+1)" extension="vue"/>
+    <tree path="/src/components/layout/SideNavBar.vue" title="手机端(侧边栏)" extension="vue"/>
+    <tree path="/src/components/layout/TopNavBar.vue" title="PC端(顶边栏)" extension="vue"/>
+    <tree path="/src/views/archive" title="归档"/>
+    <tree path="/src/components/model" title="模态框"/>
+    <tree path="/src/components/layout/Footer.vue" title="页脚" extension="vue"/>
+    <tree path="/src/components/layout" title="布局"/>
+    <tree path="/src/assets" title="配置"/>
+    <tree path="/src/store" title="默认值设置"/>
+    <tree path="/vue.config.js" title="前端反向代理(解决跨域)" extension="js"/>
+    <tree path="/src/assets/css/index.css" title="css文件" extension="css"/>
+</trees>
